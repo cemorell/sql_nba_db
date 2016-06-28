@@ -1,0 +1,3 @@
+nba_db=# SELECT *  FROM players WHERE team='NYK';
+nba_db=# SELECT *  FROM players WHERE team='IND' AND age<26;
+nba_db=# SELECT *  FROM players ORDER BY points DESC;
